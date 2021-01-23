@@ -67,7 +67,7 @@ These apps require you to purchase a separate video game (e.g. _Minecraft_, _Amo
 
 These apps require a VR headset to use.
 
-- [AltspaceVR](https://altvr.com): Atend meetups with VR avatars
+- [AltspaceVR](https://altvr.com): Attend meetups with VR avatars
 - [Kitely](https://kitely.com): Self-hosted 3D virtual world
 - [Rec Room](https://recroom.com): Online universe for playing games with friends
 - [Sansar](https://sansar.com): VR Concerts
