@@ -1,6 +1,8 @@
 # Every Proximity Chat & Video Socializing App
 
-There are more than 50 of these now and I wanted to keep track of them all in one place.
+I regularly host online events like [Learning Night](https://billmei.net/blog/learning-night), [Creating Crew](https://billmei.net/blog/creating-crew), and [Idea Club](https://billmei.net/blog/idea-club), and I haven't yet settled on what proximity video chat app to use. So I decided to try them all.
+
+There are more than 50 of these now and I created this repo because I wanted to keep track of them all in one place.
 
 If you want to add your app, feel free to open a pull request to add your app to the list. You can list your app under the appropriate category in alphabetical order. If you want your app removed from this list, you can also open a pull request to do that too.
 
