@@ -45,6 +45,7 @@ These apps can be run directly in the browser.
 - [Teamflow](https://teamflowhq.com): Virtual office space for enterprise
 - [Topia](https://topia.io): Proximity video chat in a customizable virtual world (does not support screensharing)
 - [TORB 2020](https://yorb.itp.io): 1st person online conference
+- [Virbela](https://www.virbela.com/): 3D world builder for enterprise
 - [Wave](https://wavexr.com): Online concerts
 - [Wonder](https://wonder.me): Online virtual space to meet and talk
 - [WorkAdventure](https://workadventu.re): Isometric map for remote working
@@ -61,8 +62,10 @@ These apps have the best experience when used on a phone rather than on the comp
 
 These apps require you to purchase a separate video game (e.g. _Minecraft_, _Among Us_) to use as the virtual world.
 
+- [Activeworlds](https://www.activeworlds.com/): Create your own 3D environment
 - [Crew Link](https://github.com/ottomated/CrewLink): Proximity voice chat for Among Us. Free and open source.
 - [MCParks](https://mcparks.us): Downloadable Minecraft maps that are 1:1 scale reproductions of theme parks 
+- [MumbleLink](https://www.curseforge.com/minecraft/mc-mods/mumblelink): Proximity voice chat mod for Minecraft
 - [Skoice](https://www.spigotmc.org/resources/skoice-proximity-voice-chat.82861/): Proximity Voice Chat running on Discord for Minecraft
 
 ## VR
@@ -77,6 +80,7 @@ These apps require a VR headset to use.
 - [Somnium Space](https://somniumspace.com): VR world integrated with the blockchain
 - [Tivoli Cloud VR](https://tivolicloud.com/): Open-source inclusive metaverse
 - [Vircadia](https://vircadia.com): Open-source 3D VR interface and server
+- [Vivecraft](http://www.vivecraft.org/): Turn Minecraft into a VR experience
 
 ## Not working
 
