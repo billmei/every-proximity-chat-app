@@ -18,6 +18,7 @@ These apps can be run directly in the browser.
 - [Branch](https://branch.gg): Spatial conversations for remote work
 - [Brella](https://www.brella.io/): Virtual event hosting platform for enterprise
 - [Calla](https://calla.chat): Simple, open-source proximity video calls
+- [Chatmosphere](https://chatmosphere.cc/): Open-source proximity chat prototype
 - [CozyRoom](https://cozyroom.xyz): Peer-to-peer spatial audio environment
 - [CubeChat](https://cubechat.io): Proximity call in 3D
 - [Gather](https://gather.town): Isometric proximity chat with customizable virtual rooms, games, and embeddable iframes
