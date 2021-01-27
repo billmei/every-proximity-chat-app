@@ -35,6 +35,7 @@ These apps can be run directly in the browser.
 - [Mibo](https://getmibo.com/): 3D networking, meetings, hanging out app in a virtual world
 - [Mixaba](https://mixaba.com): Chatroutlette-like app for event planners
 - [Pluto](https://pluto.video/): First-person 3D virtual world
+- [Preciate](https://preciate.com/): Recognition and rewards for teammates and virtual socializing for teams
 - [Qube](https://qube.work): Virtual office for remote work
 - [Rally Video](https://www.rally.video): Host virtual events where participatns can hop between breakout rooms with one click
 - [Rambly](https://rambly.app): Virtual space with a 90's style video game theme
