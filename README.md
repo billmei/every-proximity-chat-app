@@ -83,7 +83,7 @@ These apps require a VR headset to use.
 - [Tivoli Cloud VR](https://tivolicloud.com/): Open-source inclusive metaverse
 - [Vircadia](https://vircadia.com): Open-source 3D VR interface and server
 - [Vivecraft](http://www.vivecraft.org/): Turn Minecraft into a VR experience
-- [VRChat](https://vrchat.com/): an endless collection of social VR experiences, powered by creators. Also works without a headset on Windows.
+- [VRChat](https://vrchat.com/): An endless collection of social VR experiences, powered by creators. Also works without a headset on Windows.
 
 ## Not working
 
