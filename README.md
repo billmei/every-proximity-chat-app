@@ -90,7 +90,7 @@ These apps require a VR headset to use.
 
 These apps cannot currently be used because they are not open for signups, are broken, 404, or slow. They may have worked at some point in the past and are included here for completeness.
 
-- [Bramble](https://www.bramble.live/) Proximity chat app made by [Artery](https://artery.is/). Currently on early access waitlist.
+- [Bramble](https://www.bramble.live/): Proximity chat app made by [Artery](https://artery.is/). Currently on early access waitlist.
 - [Here](https://here.fm)
 - [Huddle](https://meet.huddlehq.io/)
 - [Jel](https://jel.app): Live collaboration tool
