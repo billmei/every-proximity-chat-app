@@ -28,6 +28,7 @@ These apps can be run directly in the browser.
 - [High Fidelity](https://highfidelity.com): Live spatial audio platform and API
 - [Hopin](https://hopin.to): Virtual event platform for enterprise
 - [Hubs by Mozilla](https://hubs.mozilla.com/): Private 3D social environment. Can also be used with a VR headset.
+- [Hubbub](https://hubbub.live/): Host group video social events with fast dynamic conversation bubbles.
 - [iVent](https://ivent-uk.com): Online event platform
 - [Kumospace](https://www.kumospace.com/): Customizable 2.5D virtual space with proximity chat
 - [Laptops in Space](https://app.laptopsinspace.de): Lightweight 3D meeting space with no registration required
