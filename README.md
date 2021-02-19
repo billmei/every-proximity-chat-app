@@ -27,8 +27,8 @@ These apps can be run directly in the browser.
 - [Happy Hour](https://happyhour.ianwdavis.com): Basic app to create breakout rooms
 - [High Fidelity](https://highfidelity.com): Live spatial audio platform and API
 - [Hopin](https://hopin.to): Virtual event platform for enterprise
-- [Hubs by Mozilla](https://hubs.mozilla.com/): Private 3D social environment. Can also be used with a VR headset.
 - [Hubbub](https://hubbub.live/): Host group video social events with fast dynamic conversation bubbles.
+- [Hubs by Mozilla](https://hubs.mozilla.com/): Private 3D social environment. Can also be used with a VR headset.
 - [iVent](https://ivent-uk.com): Online event platform
 - [Kumospace](https://www.kumospace.com/): Customizable 2.5D virtual space with proximity chat
 - [Laptops in Space](https://app.laptopsinspace.de): Lightweight 3D meeting space with no registration required
@@ -84,12 +84,13 @@ These apps require a VR headset to use.
 - [Tivoli Cloud VR](https://tivolicloud.com/): Open-source inclusive metaverse
 - [Vircadia](https://vircadia.com): Open-source 3D VR interface and server
 - [Vivecraft](http://www.vivecraft.org/): Turn Minecraft into a VR experience
-- [VRChat](https://vrchat.com/): An endless collection of social VR experiences, powered by creators. Also works without a headset on Windows.
+- [VRChat](https://vrchat.com/): Social VR experiences, powered by creators; also works without a headset on Windows
 
 ## Not working
 
 These apps cannot currently be used because they are not open for signups, are broken, 404, or slow. They may have worked at some point in the past and are included here for completeness.
 
+- [Bramble](https://www.bramble.live/) Proximity chat app made by [Artery](https://artery.is/). Currently on early access waitlist.
 - [Here](https://here.fm)
 - [Huddle](https://meet.huddlehq.io/)
 - [Jel](https://jel.app): Live collaboration tool
