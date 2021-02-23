@@ -29,6 +29,7 @@ These apps can be run directly in the browser.
 - [Hopin](https://hopin.to): Virtual event platform for enterprise
 - [Hubbub](https://hubbub.live/): Host group video social events with fast dynamic conversation bubbles.
 - [Hubs by Mozilla](https://hubs.mozilla.com/): Private 3D social environment. Can also be used with a VR headset.
+- [inSpace](https://inspace.chat/): Proximity-chat virtual classrooms for educational institutions.
 - [iVent](https://ivent-uk.com): Online event platform
 - [Kumospace](https://www.kumospace.com/): Customizable 2.5D virtual space with proximity chat
 - [Laptops in Space](https://app.laptopsinspace.de): Lightweight 3D meeting space with no registration required
