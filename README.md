@@ -36,6 +36,7 @@ These apps can be run directly in the browser.
 - [MakeSpace](https://makespace.fun): Proximity chat with embeddable apps and objects
 - [Mibo](https://getmibo.com/): 3D networking, meetings, hanging out app in a virtual world
 - [Mixaba](https://mixaba.com): Chatroutlette-like app for event planners
+- [PingPong](https://www.getpingpong.com/): Collaboration for distributed teams in different timezones
 - [Pluto](https://pluto.video/): First-person 3D virtual world
 - [Preciate](https://preciate.com/): Recognition and rewards for teammates and virtual socializing for teams
 - [Qube](https://qube.work): Virtual office for remote work
