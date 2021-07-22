@@ -47,6 +47,7 @@ These apps can be run directly in the browser.
 - [Sococo](https://sococo.com): Online remote work collaboration space for enterprise
 - [SpatialChat](https://spatial.chat): Proximity-based avatar chat with a virtual background and embeddable objects
 - [Speakeasy](https://speakeasy.co/): Easily host an event to hang out with your friends
+- [Spot](https://www.spot.xyz): Fully customizable virtual office space
 - [Teamflow](https://teamflowhq.com): Virtual office space for enterprise
 - [Topia](https://topia.io): Proximity video chat in a customizable virtual world (does not support screensharing)
 - [TORB 2020](https://yorb.itp.io): 1st person online conference
