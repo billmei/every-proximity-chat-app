@@ -1,4 +1,4 @@
-# Every Proximity Chat & Video Socializing App
+# Every Proximity Chat, Metaverse, and Video Conference Socializing App
 
 I regularly host online events like [Learning Night](https://billmei.net/blog/learning-night), [Creating Crew](https://billmei.net/blog/creating-crew), and [Idea Club](https://billmei.net/blog/idea-club), and I haven't yet settled on what proximity video chat app to use. So I decided to try them all.
 
@@ -50,6 +50,7 @@ These apps can be run directly in the browser.
 - [SpatialChat](https://spatial.chat): Proximity-based avatar chat with a virtual background and embeddable objects
 - [Speakeasy](https://speakeasy.co/): Easily host an event to hang out with your friends
 - [Spot](https://www.spot.xyz): Fully customizable virtual office space
+- [Sprout](https://sprout.place/): Virtual whiteboard with video calling
 - [Teamflow](https://teamflowhq.com): Virtual office space for enterprise
 - [Topia](https://topia.io): Proximity video chat in a customizable virtual world (does not support screensharing)
 - [TORB 2020](https://yorb.itp.io): 1st person online conference
