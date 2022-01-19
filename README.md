@@ -33,7 +33,6 @@ These apps can be run directly in the browser.
 - [iVent](https://ivent-uk.com): Online event platform
 - [Kumospace](https://www.kumospace.com/): Customizable 2.5D virtual space with proximity chat
 - [Laptops in Space](https://app.laptopsinspace.de): Lightweight 3D meeting space with no registration required
-- [MakeSpace](https://makespace.fun): Proximity chat with embeddable apps and objects
 - [Mibo](https://getmibo.com/): 3D networking, meetings, hanging out app in a virtual world
 - [Mixaba](https://mixaba.com): Chatroutlette-like app for event planners
 - [Orbital](https://orbital.chat): Audio-first virtual office with integrated collaboration tools.
@@ -100,6 +99,7 @@ These apps cannot currently be used because they are not open for signups, are b
 - [Here](https://here.fm)
 - [Huddle](https://meet.huddlehq.io/)
 - [Jel](https://jel.app): Live collaboration tool
+- [MakeSpace](https://makespace.fun): Proximity chat with embeddable apps and objects (now moved to Sprout)
 - [Metaverse](https://metaversehq.com)
 - [Muse](https://muze.nyc)
 - [Online Town](https://theonline.town): The old version of [Gather](https://gather.town/)
