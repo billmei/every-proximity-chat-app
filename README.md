@@ -25,7 +25,6 @@ These apps can be run directly in the browser.
 - [Gather](https://gather.town): Isometric proximity chat with customizable virtual rooms, games, and embeddable iframes
 - [Gatherly](https://gatherly.io): Online networking events platform built for enterprise
 - [GroupRoom](https://grouproom.io): Spatial video chat with a virtual background and embeddable objects
-- [Happy Hour](https://happyhour.ianwdavis.com): Basic app to create breakout rooms
 - [High Fidelity](https://highfidelity.com): Live spatial audio platform and API
 - [Hopin](https://hopin.to): Virtual event platform for enterprise
 - [Hubbub](https://hubbub.live/): Host group video social events with fast dynamic conversation bubbles.
