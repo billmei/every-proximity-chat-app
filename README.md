@@ -14,7 +14,6 @@ These apps can be run directly in the browser.
 
 - [Airmeet](https://airmeet.com): Virtual event networking platform
 - [Around](https://www.around.co/): Enhanced video call software
-- [Bash](https://throwabash.com/): Throw an Online Party with video chats, virtual worlds, and games
 - [Bramble](https://www.bramble.live/): Proximity chat app made by [Artery](https://artery.is/)
 - [Branch](https://branch.gg): Spatial conversations for remote work
 - [Brella](https://www.brella.io/): Virtual event hosting platform for enterprise
