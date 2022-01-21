@@ -94,8 +94,8 @@ These apps require a VR headset to use.
 
 These apps cannot currently be used because they are not open for signups, are broken, 404, or slow. They may have worked at some point in the past and are included here for completeness.
 
-- [Bash](https://throwabash.com/): Throw an Online Party with video chats, virtual worlds, and games
-- [Happy Hour](https://happyhour.ianwdavis.com): Basic app to create breakout rooms
+- [Bash](https://throwabash.com/)
+- [Happy Hour](https://happyhour.ianwdavis.com)
 - [Here](https://here.fm)
 - [Huddle](https://meet.huddlehq.io/)
 - [Jel](https://jel.app): Live collaboration tool
