@@ -14,7 +14,6 @@ These apps can be run directly in the browser.
 
 - [Airmeet](https://airmeet.com): Virtual event networking platform
 - [Around](https://www.around.co/): Enhanced video call software
-- [Bash](https://throwabash.com/): Throw an Online Party with video chats, virtual worlds, and games
 - [Bramble](https://www.bramble.live/): Proximity chat app made by [Artery](https://artery.is/)
 - [Branch](https://branch.gg): Spatial conversations for remote work
 - [Brella](https://www.brella.io/): Virtual event hosting platform for enterprise
@@ -26,7 +25,6 @@ These apps can be run directly in the browser.
 - [Gather](https://gather.town): Isometric proximity chat with customizable virtual rooms, games, and embeddable iframes
 - [Gatherly](https://gatherly.io): Online networking events platform built for enterprise
 - [GroupRoom](https://grouproom.io): Spatial video chat with a virtual background and embeddable objects
-- [Happy Hour](https://happyhour.ianwdavis.com): Basic app to create breakout rooms
 - [High Fidelity](https://highfidelity.com): Live spatial audio platform and API
 - [Hopin](https://hopin.to): Virtual event platform for enterprise
 - [Hubbub](https://hubbub.live/): Host group video social events with fast dynamic conversation bubbles.
@@ -35,7 +33,6 @@ These apps can be run directly in the browser.
 - [iVent](https://ivent-uk.com): Online event platform
 - [Kumospace](https://www.kumospace.com/): Customizable 2.5D virtual space with proximity chat
 - [Laptops in Space](https://app.laptopsinspace.de): Lightweight 3D meeting space with no registration required
-- [MakeSpace](https://makespace.fun): Proximity chat with embeddable apps and objects
 - [Mibo](https://getmibo.com/): 3D networking, meetings, hanging out app in a virtual world
 - [Mixaba](https://mixaba.com): Chatroutlette-like app for event planners
 - [Orbital](https://orbital.chat): Audio-first virtual office with integrated collaboration tools.
@@ -97,9 +94,12 @@ These apps require a VR headset to use.
 
 These apps cannot currently be used because they are not open for signups, are broken, 404, or slow. They may have worked at some point in the past and are included here for completeness.
 
+- [Bash](https://throwabash.com/)
+- [Happy Hour](https://happyhour.ianwdavis.com)
 - [Here](https://here.fm)
 - [Huddle](https://meet.huddlehq.io/)
 - [Jel](https://jel.app): Live collaboration tool
+- [MakeSpace](https://makespace.fun): Proximity chat with embeddable apps and objects (now moved to Sprout)
 - [Metaverse](https://metaversehq.com)
 - [Muse](https://muze.nyc)
 - [Online Town](https://theonline.town): The old version of [Gather](https://gather.town/)
