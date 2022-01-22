@@ -62,7 +62,6 @@ These apps can be run directly in the browser.
 These apps have the best experience when used on a phone rather than on the computer.
 
 - [Glimpse](https://joinglimpse.com): Speed networking app
-- [Houseparty](https://houseparty.com/): Video rooms and games with your friends
 - [Icebreaker](https://icebreaker.video): Virtual networking and happy hour
 
 ## Video Games
@@ -94,9 +93,10 @@ These apps require a VR headset to use.
 
 These apps cannot currently be used because they are not open for signups, are broken, 404, or slow. They may have worked at some point in the past and are included here for completeness.
 
-- [Bash](https://throwabash.com/)
-- [Happy Hour](https://happyhour.ianwdavis.com)
+- [Bash](https://throwabash.com/): Throw an Online Party with video chats, virtual worlds, and games
+- [Happy Hour](https://happyhour.ianwdavis.com): Basic app to create breakout rooms
 - [Here](https://here.fm)
+- [Houseparty](https://houseparty.com/): Mobile app for video rooms and games with your friends
 - [Huddle](https://meet.huddlehq.io/)
 - [Jel](https://jel.app): Live collaboration tool
 - [MakeSpace](https://makespace.fun): Proximity chat with embeddable apps and objects (now moved to Sprout)
