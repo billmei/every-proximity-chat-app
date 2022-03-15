@@ -44,6 +44,7 @@ These apps can be run directly in the browser.
 - [Rambly](https://rambly.app): Virtual space with a 90's style video game theme
 - [Remo](https://remo.co): Webinars in a virtual office
 - [Reslash](https://reslash.co): Proximity-based avatar chat with a virtual background and embeddable objects
+- [Skittish](https://skittish.com/): 3D audio-only proximity chat with cute animals and real-time object placement
 - [Sococo](https://sococo.com): Online remote work collaboration space for enterprise
 - [SpatialChat](https://spatial.chat): Proximity-based avatar chat with a virtual background and embeddable objects
 - [Speakeasy](https://speakeasy.co/): Easily host an event to hang out with your friends
