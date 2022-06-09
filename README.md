@@ -52,7 +52,7 @@ These apps can be run directly in the browser.
 - [Spot](https://www.spot.xyz): Fully customizable virtual office space
 - [Sprout](https://sprout.place/): Virtual whiteboard with video calling
 - [Teamflow](https://teamflowhq.com): Virtual office space for enterprise
-- [Topia](https://topia.io): Proximity video chat in a customizable virtual world (does not support screensharing)
+- [Topia](https://topia.io): Peer-to-Peer proximity video chat in customizable virtual worlds
 - [TORB 2020](https://yorb.itp.io): 1st person online conference
 - [Virbela](https://www.virbela.com/): 3D world builder for enterprise
 - [Wave](https://wavexr.com): Online concerts
