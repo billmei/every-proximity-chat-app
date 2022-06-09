@@ -41,7 +41,7 @@ These apps can be run directly in the browser.
 - [Pluto](https://pluto.video/): First-person 3D virtual world
 - [Preciate](https://preciate.com/): Recognition and rewards for teammates and virtual socializing for teams
 - [Qube](https://qube.work): Virtual office for remote work
-- [Rally Video](https://www.rally.video): Host virtual events where participatns can hop between breakout rooms with one click
+- [Rally Video](https://www.rally.video): Host virtual events where participants can hop between breakout rooms with one click
 - [Rambly](https://rambly.app): Virtual space with a 90's style video game theme
 - [Remo](https://remo.co): Webinars in a virtual office
 - [Reslash](https://reslash.co): Proximity-based avatar chat with a virtual background and embeddable objects
