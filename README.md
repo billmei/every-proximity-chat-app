@@ -21,10 +21,11 @@ These apps can be run directly in the browser.
 - [Campfire](https://campfire.to/): Hosted team socials with activities updated every week (Peloton business model)
 - [Chatmosphere](https://chatmosphere.cc/): Open-source proximity chat prototype
 - [CozyRoom](https://cozyroom.xyz): Peer-to-peer spatial audio environment
-- [CubeChat](https://cubechat.io): Proximity call in 3D
 - [flat.social](https://flat.social): A platform for hosting fun online events and meetings
+- [Fresco](https://www.fres.co): A 2d spatial chat focused on workshops and team meetings. 
 - [Gather](https://gather.town): Isometric proximity chat with customizable virtual rooms, games, and embeddable iframes
 - [Gatherly](https://gatherly.io): Online networking events platform built for enterprise
+- [Gatheround](https://gatheround.com/): Crack the culture code
 - [GroupRoom](https://grouproom.io): Spatial video chat with a virtual background and embeddable objects
 - [High Fidelity](https://highfidelity.com): Live spatial audio platform and API
 - [Hopin](https://hopin.to): Virtual event platform for enterprise
@@ -64,7 +65,6 @@ These apps can be run directly in the browser.
 These apps have the best experience when used on a phone rather than on the computer.
 
 - [Glimpse](https://joinglimpse.com): Speed networking app
-- [Icebreaker](https://icebreaker.video): Virtual networking and happy hour
 
 ## Video Games
 
@@ -96,10 +96,12 @@ These apps require a VR headset to use.
 These apps cannot currently be used because they are not open for signups, are broken, 404, or slow. They may have worked at some point in the past and are included here for completeness.
 
 - [Bash](https://throwabash.com/): Throw an Online Party with video chats, virtual worlds, and games
+- [CubeChat](https://cubechat.io): Proximity call in 3D
 - [Happy Hour](https://happyhour.ianwdavis.com): Basic app to create breakout rooms
-- [Here](https://here.fm)
+- [Here](https://here.fm): fun virtual canvas with videos
 - [Houseparty](https://houseparty.com/): Mobile app for video rooms and games with your friends
 - [Huddle](https://meet.huddlehq.io/)
+- [Icebreaker](https://icebreaker.video): Virtual networking and happy hour, now [Gatheround](https://gatheround.com/)
 - [Jel](https://jel.app): Live collaboration tool
 - [MakeSpace](https://makespace.fun): Proximity chat with embeddable apps and objects (now moved to Sprout)
 - [Metaverse](https://metaversehq.com)
