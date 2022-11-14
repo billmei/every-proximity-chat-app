@@ -27,6 +27,7 @@ These apps can be run directly in the browser.
 - [Gatherly](https://gatherly.io): Online networking events platform built for enterprise
 - [Gatheround](https://gatheround.com/): Crack the culture code
 - [GroupRoom](https://grouproom.io): Spatial video chat with a virtual background and embeddable objects
+- [Here](https://here.fm): Fun virtual canvas with videos
 - [High Fidelity](https://highfidelity.com): Live spatial audio platform and API
 - [Hopin](https://hopin.to): Virtual event platform for enterprise
 - [Hubbub](https://hubbub.live/): Host group video social events with fast dynamic conversation bubbles.
@@ -98,7 +99,6 @@ These apps cannot currently be used because they are not open for signups, are b
 - [Bash](https://throwabash.com/): Throw an Online Party with video chats, virtual worlds, and games
 - [CubeChat](https://cubechat.io): Proximity call in 3D
 - [Happy Hour](https://happyhour.ianwdavis.com): Basic app to create breakout rooms
-- [Here](https://here.fm): fun virtual canvas with videos
 - [Houseparty](https://houseparty.com/): Mobile app for video rooms and games with your friends
 - [Huddle](https://meet.huddlehq.io/)
 - [Icebreaker](https://icebreaker.video): Virtual networking and happy hour, now [Gatheround](https://gatheround.com/)
